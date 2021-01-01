@@ -7,27 +7,8 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>zh-hans</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Fri, 01 Jan 2021 12:06:33 +0800</lastBuildDate>
+		<lastBuildDate>Fri, 01 Jan 2021 10:06:33 +0800</lastBuildDate>
 		<atom:link href="https://juesexingqiu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-		
-		<item>
-			<title>试运行2</title>
-			<link>https://juesexingqiu.github.io/posts/go-programming-tour-book2/</link>
-			<pubDate>Fri, 01 Jan 2021 12:06:33 +0800</pubDate>
-			
-			<guid>https://juesexingqiu.github.io/posts/go-programming-tour-book2/</guid>
-			<description>第一篇用于测试。。 fdfdfd fdfdfdfdfd fdfdfdfdfd fdfdfdfd</description>
-			<content type="html"><![CDATA[<p>第一篇用于测试。。</p>
-
-<p>fdfdfd</p>
-
-<p>fdfdfdfdfd</p>
-
-<p>fdfdfdfdfd</p>
-
-<p>fdfdfdfd</p>
-]]></content>
-		</item>
 		
 		<item>
 			<title>试运行</title>
