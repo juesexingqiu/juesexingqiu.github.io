@@ -7,8 +7,19 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>zh-hans</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Fri, 01 Jan 2021 10:06:33 +0800</lastBuildDate>
+		<lastBuildDate>Fri, 01 Jan 2021 10:07:33 +0800</lastBuildDate>
 		<atom:link href="https://juesexingqiu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>测试更新流程</title>
+			<link>https://juesexingqiu.github.io/posts/go-programming-tour-booktest/</link>
+			<pubDate>Fri, 01 Jan 2021 10:07:33 +0800</pubDate>
+			
+			<guid>https://juesexingqiu.github.io/posts/go-programming-tour-booktest/</guid>
+			<description>第二篇用于测试更新流程。。</description>
+			<content type="html"><![CDATA[<p>第二篇用于测试更新流程。。</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>试运行</title>
