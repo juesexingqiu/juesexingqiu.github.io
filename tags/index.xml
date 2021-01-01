@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 绝色星球</title>
+    <link>https://juesexingqiu.github.io/tags/</link>
+    <description>Recent content in Tags on 绝色星球</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-hans</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    
+	<atom:link href="https://juesexingqiu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://juesexingqiu.github.io/tags/test/</link>
+      <pubDate>Fri, 01 Jan 2021 10:06:33 +0800</pubDate>
+      
+      <guid>https://juesexingqiu.github.io/tags/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
